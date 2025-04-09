@@ -8,4 +8,3 @@ Para ejecutar el sistema debes poner :
 
 sistema de registro 2
 
-sistema de registro 3
